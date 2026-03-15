@@ -5,3 +5,6 @@
     srcset="https://raw.githubusercontent.com/xlurr/xlurr/main/dist/snake.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/xlurr/xlurr/main/dist/snake.svg" />
 </picture>
+
+<img src="https://raw.githubusercontent.com/xlurr/xlurr/main/github-metrics.svg" />
+
