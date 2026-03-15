@@ -20,7 +20,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg?color_snake=#24292f&color_dots=#f6f8fa,#d0d7de,#afb8c1,#8c959f,#57606a
-            dist/snake-dark.svg?color_snake=#e6edf3&color_dots=#0d1117,#161b22,#21262d,#30363d,#484f58
+            dist/snake-dark.svg?color_snake=#ffffff&color_dots=#161b22,#30363d,#6e7681,#b1bac4,#e6edf3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -31,4 +31,5 @@ jobs:
           git add dist/
           git commit -m "update snake" || echo "nothing to commit"
           git push
+
 
