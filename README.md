@@ -6,12 +6,11 @@
 [![email](https://img.shields.io/badge/aborigen.nm@gmail.com-black?style=flat-square&logo=gmail)](mailto:aborigen.nm@gmail.com)
 [![open to work](https://img.shields.io/badge/open_to_work-Junior_Go_/_Full--Stack-white?style=flat-square)](https://github.com/xlurr)
 
-</div>
+`Go` `TypeScript` `React` `PostgreSQL` `Docker`
 
-```
-Go · TypeScript · React · PostgreSQL · Docker
-Chi · REST · JWT · Tailwind · GitHub Actions
-```
+`chi` `REST` `JWT` `Tailwind` `GitHub Actions`
+
+</div>
 
 ---
 
@@ -24,3 +23,4 @@ Chi · REST · JWT · Tailwind · GitHub Actions
 </picture>
 
 <img src="https://raw.githubusercontent.com/xlurr/xlurr/main/github-metrics.svg" />
+
