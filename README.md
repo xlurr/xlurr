@@ -4,11 +4,11 @@
 
 [![telegram](https://img.shields.io/badge/@dontwritethis-black?style=flat-square&logo=telegram)](https://t.me/dontwritethis)
 [![email](https://img.shields.io/badge/aborigen.nm@gmail.com-black?style=flat-square&logo=gmail)](mailto:aborigen.nm@gmail.com)
-[![open to work](https://img.shields.io/badge/open_to_work-Junior_Go_/_Full--Stack-white?style=flat-square)](https://github.com/xlurr)
+[![open to work](https://img.shields.io/badge/open_to_work-Junior_TypeScript_/_Full--Stack-white?style=flat-square)](https://github.com/xlurr)
 
 `Go` `TypeScript` `React` `PostgreSQL` `Docker`
 
-`chi` `REST` `JWT` `Tailwind` `GitHub Actions`
+`REST` `JWT` `Tailwind` `GitHub Actions`
 
 </div>
 
