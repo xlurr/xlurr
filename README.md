@@ -2,13 +2,13 @@
 
 # xlurr
 
-[![telegram](https://img.shields.io/badge/@dontwritethis-black?style=flat-square&logo=telegram)](https://t.me/dontwritethis)
+[![telegram](https://img.shields.io/badge/@pocketdev-black?style=flat-square&logo=telegram)](https://t.me/dontwritethis)
 [![email](https://img.shields.io/badge/aborigen.nm@gmail.com-black?style=flat-square&logo=gmail)](mailto:aborigen.nm@gmail.com)
 [![open to work](https://img.shields.io/badge/open_to_work-Junior_TypeScript_/_Full--Stack-white?style=flat-square)](https://github.com/xlurr)
 
 `Go` `TypeScript` `React` `PostgreSQL` `Docker`
 
-`REST` `JWT` `Tailwind` `GitHub Actions`
+`REST` `Tailwind` `GitHub Actions`
 
 </div>
 
